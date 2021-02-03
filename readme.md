@@ -3,6 +3,7 @@
 1. I Am Rich - Application to showcase basic widgets.
 2. MiCard - Digital visiting card.
 3. Dicee - App to generate random dice face.
+4. Rive Animation - App to showcase Rive real time animation & interaction.
 
 ---
 
